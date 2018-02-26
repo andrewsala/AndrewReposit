@@ -1,0 +1,3 @@
+build path ---> compila file java e li posiziona dentro "bin"
+consente di aggiungere librerie di classi che potranno essre usate
+all'interno del proprio progetto.

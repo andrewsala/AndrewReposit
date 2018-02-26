@@ -22,4 +22,4 @@ con altri membri del team.
 
 SCM = Source Code Management --> Strumento di gestione --> GIT / SVN
 
-
+https://it.wikipedia.org/wiki/Application_server

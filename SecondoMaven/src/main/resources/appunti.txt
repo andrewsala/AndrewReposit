@@ -1,3 +1,25 @@
 build path ---> compila file java e li posiziona dentro "bin"
 consente di aggiungere librerie di classi che potranno essre usate
 all'interno del proprio progetto.
+
+Maven
+dependence managemente
+
+
+Apache poi ---> livreria java management office 
+
+project maven
+
+new project maven
+
+1 it.overnet
+2 PrimoMaven
+3 magior version "*.0.0" minor version 0.0.*   -STATO DEL PROGETTO.
+4 WAR = WEB ARCHIVE; POM = ARCHIFACT MAVEN; JAR = JAVA ARCHIVE
+
+pom = file xml che consente allo sviluppatore di condividere il porgetto
+con altri membri del team.
+
+SCM = Source Code Management --> Strumento di gestione --> GIT / SVN
+
+
